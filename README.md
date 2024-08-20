@@ -16,3 +16,6 @@ pip install matplotlib
 
 
 ![image](https://github.com/user-attachments/assets/7b18ca0a-b5f8-4609-8bec-aba730b1a3ee)
+
+
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/f97ceeb3-f029-49b4-aa74-21f4c5cf6c2b">
