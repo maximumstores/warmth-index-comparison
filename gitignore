@@ -1,0 +1,7 @@
+git commit -m "Initial commit with warmth index calculation and visualization"
+git push -u origin main
+
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
