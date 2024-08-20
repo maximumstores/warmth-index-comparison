@@ -1,9 +1,6 @@
 Welcome to the world of Merino.Tech
 your trusted partner in unique thermal wear designed in Canada and crafted from natural Merino wool!
 
-# warmth-index-comparison
-warmth-index-comparison
-
 
 # Warmth Index Comparison
 
